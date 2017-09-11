@@ -10,5 +10,6 @@ PHP (primary backend language)
 Mysql/Oracle DB
 JS and Jquery
 Git as version control (3 branches- dev,stage,production)
-HTML, CSS, Ajax, Web Api's
+HTML, CSS, Ajax, Web Api's, Apache server
+Kate editor (just so you know :] )
 ```
